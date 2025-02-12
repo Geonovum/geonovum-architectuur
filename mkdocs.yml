@@ -1,0 +1,93 @@
+#
+# Dit mkdocs document maakt gebruik van mkdocs-material. Zie:
+#     https://squidfunk.github.io/mkdocs-material/getting-started/
+#
+# Bron van inspiratie: https://provincienh.github.io/architectuurprincipes/
+#
+site_name: Architectuurprincipes
+theme:
+  name: material
+      # Palette toggle for light mode
+  palette:
+  - scheme: default
+    # primary: deep purple
+    primary: custom
+    toggle:
+      icon: material/brightness-7 
+      name: Switch to dark mode
+    # Palette toggle for dark mode
+  - scheme: slate
+    # primary: deep purple
+    primary: custom
+    #toggle:
+    #  icon: material/brightness-4
+    #  name: Switch to light mode
+  logo: https://www.geonovum.nl/logo.svg
+  icon:
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.footer
+    - navigation.indexes
+#extra_css:
+#  - stylesheets/extra.css
+copyright: "CC BY-NC-SA 4.0 - 2025 Geonovum"
+plugins:
+  - tags
+  - search
+  #- git-revision-date-localized:
+  #    type: date
+  #    custom_format: "%d. %B %Y"
+  #    timezone: Europe/Amsterdam
+  #    locale: en
+  #    fallback_to_build_date: false
+  #    enable_creation_date: true
+  #    exclude:
+  #        # - index.md
+  #    enabled: true
+  #    strict: true
+  # - with-pdf:
+  #     toc_level: 2
+  #     ordered_chapter_level: 2
+  #     cover_subtitle: Versie Q4 2023
+  #     author: Architectuurboard
+  #     toc_title: Inhoudsopgave
+  #- offline:
+  #    enabled: !ENV [OFFLINE, true]
+repo_url: https://github.com/provincieNH/architectuurprincipes
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tilde
+  - pymdownx.mark
+  - pymdownx.caret
+nav:
+  - index.md
+  - 'Beleidskaders':
+    - './beleidskaders/index.md'
+  - 'Architectuur Principes':
+    - ./architectuurprincipes/AP-01-Open.md
+  - 'Implicaties':
+    - ./implicaties/IMP-001-Geonovum-volgt-ontwikkelingen.md
+    - ./implicaties/IMP-002-Kiezen-welke-ontwikkelingen-meegroeien.md 
+  - 'Architecture Decions Records': 
+    - ./adr/index.md
+    - ./adr/ADR-000-template.md
+    - ./adr/ADR-001-gebruik-adr.md
+    - ./adr/ADR-002-github-repo-als-basis.md
+
