@@ -2,7 +2,7 @@
 # Dit mkdocs document maakt gebruik van mkdocs-material. Zie:
 #     https://squidfunk.github.io/mkdocs-material/getting-started/
 #
-# Bron van inspiratie: https://provincienh.github.io/architectuurprincipes/
+# Bron van inspiratie: 
 #
 site_name: Architectuurprincipes
 theme:
