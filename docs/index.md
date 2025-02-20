@@ -1,5 +1,7 @@
 # Welkom
 
+**Deze pagina is nog in ontwikkeling**
+
 Welkom bij de architectuurpagina van Geonovum. Uit basisdocumenten (beleidsvisie, beleidsplan, doelstelling, handboeken, BOMOS) komen tot formulering van uitgangspunten waaraan we de huidige intern inrichting kunnen toetsen en die richting geeft voor het werken onder architectuur.
 
 Onze interne architectuur beschrijft alle producten van Geonovum. Dit zijn:
