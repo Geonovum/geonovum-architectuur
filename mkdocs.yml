@@ -2,7 +2,7 @@
 # Dit mkdocs document maakt gebruik van mkdocs-material. Zie:
 #     https://squidfunk.github.io/mkdocs-material/getting-started/
 #
-# Bron van inspiratie: 
+# Bron van inspiratie: https://provincienh.github.io/architectuurprincipes/
 #
 site_name: Architectuurprincipes
 theme:
@@ -68,7 +68,7 @@ plugins:
   #     toc_title: Inhoudsopgave
   #- offline:
   #    enabled: !ENV [OFFLINE, true]
-repo_url: https://github.com/provincieNH/architectuurprincipes
+repo_url: https://github.com/Geonovum/geonovum-architectuur
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -81,13 +81,10 @@ nav:
   - 'Beleidskaders':
     - './beleidskaders/index.md'
   - 'Architectuur Principes':
-    - ./architectuurprincipes/AP-01-Open.md
+    - ./architectuurprincipes/index.md
   - 'Implicaties':
-    - ./implicaties/IMP-001-Geonovum-volgt-ontwikkelingen.md
-    - ./implicaties/IMP-002-Kiezen-welke-ontwikkelingen-meegroeien.md 
+    - ./implicaties/index.md
   - 'Architecture Decions Records': 
     - ./adr/index.md
     - ./adr/ADR-000-template.md
-    - ./adr/ADR-001-gebruik-adr.md
-    - ./adr/ADR-002-github-repo-als-basis.md
 
