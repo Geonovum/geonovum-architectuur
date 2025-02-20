@@ -2,15 +2,36 @@
 
 **Deze pagina is nog in ontwikkeling**
 
-Welkom bij de architectuurpagina van Geonovum. Uit basisdocumenten (beleidsvisie, beleidsplan, doelstelling, handboeken, BOMOS) komen tot formulering van uitgangspunten waaraan we de huidige intern inrichting kunnen toetsen en die richting geeft voor het werken onder architectuur.
+Welkom bij de architectuurpagina van Geonovum. Uit [beleidskaders](/beleidskaders) (beleidsvisie, beleidsplan, doelstelling, handboeken, BOMOS) komen we tot formulering van [architectuurprincipes](architectuurprincipes/). Deze
+principes werken we verder uit tot [implicaties](implicaties) voor hoe wij onze infrastructuur inregelen.
 
-Onze interne architectuur beschrijft alle producten van Geonovum. Dit zijn:
+Beslissingen die we nemen met impact op architectuure documenten we in ['Architecure Decision Records' (ADRs)](adr/).
+
+Onze architectuur beschrijft alle producten van Geonovum. Dit zijn:
 
 - Adviezen
 - Standaarden
 - Informatie op onze website
 - Validators
 - Dienstverlening aan andere projecten.
+
+
+
+
+## Uitgangspunten
+
+Onze architectuur:
+
+- Volgt de organisatiedoelen.
+- Legt kaders op aan onze  productielijnen en de wijze waarop onze producten worden gemaakt.
+- Legt kaders op aan de bedrijfsmiddelen.
+
+![alt text](image.png)
+
+## Doelstellingen
+
+Met de globale architectuurschets (GAS) borgen (en waar mogelijk: verhogen) we de kwaliteit van en samenhang tussen de standaarden die we bij Geonovum ontwikkelen en beheren en
+zorgen we ervoor dat de architectuur invulling geeft aan de beleidskaders van Geonovum
 
 ## Gebruikte materialen:
 
@@ -24,17 +45,3 @@ Onze interne architectuur beschrijft alle producten van Geonovum. Dit zijn:
 - GAS van DSO
 - GAS van BRO
 - <https://provincienh.github.io/architectuurprincipes/>
-
-![alt text](image.png)
-
-## Uitgangspunten
-
-- Volgt de organisatiedoelen
-- Reageert op de omgevingsontwikkelingen en oefent daar invloed op uit
-- Legt kaders op aan de productielijnen en de wijze waarop de producten worden gemaakt
-- Legt kaders op aan de bedrijfsmiddelen
-
-## Doelstellingen
-
-Met de globale architectuurschets (GAS) borgen (en waar mogelijk: verhogen) we de kwaliteit van en samenhang tussen de standaarden die we bij Geonovum ontwikkelen en beheren. 
-
