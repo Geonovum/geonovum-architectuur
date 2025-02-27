@@ -1,4 +1,4 @@
-# Besluit
+# ADR-000 Template decision record
 
 Verwoord het besluit kort en in actieve stijl.
 

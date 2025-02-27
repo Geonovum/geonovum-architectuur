@@ -7,6 +7,8 @@ realiseren in [implicaties](../implicaties/).
 
 Omdat we open zijn zullen tegen architecturen van andere partijen aanlopen. Onze architectuur is zodanig flexibel dat dit niet tot onmgelijkheden leidt.
 
+Onze producten (standaarden, informatiemodellen, validatieregels, schematrons, …) ontwikkelen wij op een open en transparante manier. 
+
 ## AP-02 Netwerk
 
 Geonovum verbindt en werkt samen. Dit doen wij door aan te sluiten op en invloed uit te oefenen op de bewegingen van de landelijke ditigale overheid zoals het IBDS en het bijbehorende Federatief Data Stelsel en oefent daar invloed op uit.

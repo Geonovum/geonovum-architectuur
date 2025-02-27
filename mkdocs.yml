@@ -87,4 +87,5 @@ nav:
   - 'Architecture Decions Records': 
     - ./adr/index.md
     - ./adr/ADR-000-template.md
+    - ./adr/ADR-001-DSO-Niet-MDA.md
 
