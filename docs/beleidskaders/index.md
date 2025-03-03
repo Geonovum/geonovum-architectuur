@@ -9,4 +9,4 @@ bij het bereiken van de doelstellingen van Geonovum. Deze vinden wij in de volge
 - Het [I&A beleidsplan](TODO) van Geonovum.
 
 
-Uit deze beleidskaders abstraheren we [architectuurprincipes](../architectuurprincipes/)
+Uit deze beleidskaders abstraheren we [architectuurprincipes](../architectuurprincipes/index.md)

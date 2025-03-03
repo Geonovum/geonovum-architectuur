@@ -6,8 +6,8 @@ BOMOS is hét Beheer- en OntwikkelModel voor Open Standaarden.
 
 Is implicatie van:
 
-- Open
-- Betrouwbaar
+- [Open](../architectuurprincipes/index.md#ap-01-open)
+- [Betrouwbaar](../architectuurprincipes/index.md#ap-05-betrouwbaar)
 
 ## IMP-002: We gebruiken MIM
 
@@ -15,7 +15,7 @@ MIM is een veelgebruikte standaard voor informatiemodellering binnen de overheid
 
 Is implicatie van:
 
-- Standaard
+- [Standaard](../architectuurprincipes/index.md#ap-07-standaard)
 
 ## IMP-003: We gebruiken NEN3610 
 
@@ -23,13 +23,13 @@ NEN 3610  is een veelgebruikte standaard voor geoinformatie binnen Nederland.
 
 Is implicatie van:
 
-- Standaard
+- [Standaard](../architectuurprincipes/index.md#ap-07-standaard)
 
 ## IMP-004 Aansluitend op Landelijke digitale overheid
 
 Is implicatie van:
 
-- Samenwerken
+- [Netwerk](../architectuurprincipes/index.md#ap-02-netwerk)
 
 
 ## IMP-005 Aansluitend op Europese ontwikkelingen
@@ -38,7 +38,7 @@ De architectuur moet  passen in de bewegingen van de digitale overheid op europe
 
 Is implicatie van:
 
-- Samenwerken
+- [Netwerk](../architectuurprincipes/index.md#ap-02-netwerk)
 
 ## IMP-007 Aansluitend op NGII
 
@@ -46,7 +46,7 @@ De architectuur van Geonovum beweegt mee met upgrades van de nationale geodata i
 
 Is implicatie van:
 
-- Samenwerken
+- [Netwerk](../architectuurprincipes/index.md#ap-02-netwerk)
 
 ## IMP-008 Geborgd
 
@@ -58,7 +58,7 @@ We publiceren niet alleen standaarden die specifiek zijn voor  de geo-wereld, ma
 
 Is implicatie van:
 
-- Open
+- [Open](../architectuurprincipes/index.md#ap-01-open)
 
 ## IMP-010 Kwaliteitsborging
 
@@ -98,8 +98,9 @@ Waar mogelijk passen we de Model Driven Approach to waarbij we artifacten met ee
 op de knop afleiden. 
 
 Is implicatie van:
-- Standaard
-- Wendbaar
+
+- [Standaard](../architectuurprincipes/index.md#ap-07-standaard)
+- [Wendbaar](../architectuurprincipes/index.md#ap-04-wendbaar)
 
 
 ## IMP-019 Tooling ondersteunt open standaarden
