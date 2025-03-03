@@ -1,7 +1,8 @@
 # Architectuurprincipes
 
-Uit de beleidskaders extraheren we architectuurprincipes die we daarna
-realiseren in [implicaties](../implicaties/).
+Op basis van de beleidskaders zijn een aantal architectuurprincipes opgesteld voor Geonovum.
+
+Uit deze richtinggevende uitspraken volgen ook een aantal consequenties die uitgewerkt zijn onder [implicaties](../implicaties/index.md)
 
 ## AP-01 Open
 
