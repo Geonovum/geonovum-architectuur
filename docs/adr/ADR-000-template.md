@@ -22,8 +22,8 @@ Beschrijf de alternatieven die overwogen zijn, en waarom hier niet voor gekozen 
 
 Beschrijf wat de beslissing voor gevolgen heeft, wat het betekent voor de verschillende stakeholders.
 
-## Toelichting​
+## Toelichting
 
-Beschrijf relevante discussiepunten met stakeholders en de uitkomst daarvan.​
+Beschrijf relevante discussiepunten met stakeholders en de uitkomst daarvan.
 
 Verwijs eventueel naar extra documentatie of ondersteunende informatie die van belang is.
