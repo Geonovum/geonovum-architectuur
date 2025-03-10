@@ -88,4 +88,5 @@ nav:
     - ./adr/index.md
     - ./adr/ADR-000-template.md
     - ./adr/ADR-001-DSO-Niet-MDA.md
+    - ./adr/ADR-002-OAS-API-specficaltie-niet-in-technisch-register.md
 
