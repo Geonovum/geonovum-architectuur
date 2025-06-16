@@ -51,3 +51,7 @@ Standaarden maken doen we samen.
 
 Geonovum borgt de kwaliteit van de nationale geodata infrastructuur en
 heeft daarvoor ook haar eigen kwaliteitborging op orde.
+
+## AP-11 Omgevingssensitief
+
+Geonovum houdt in de gaten wat er speelt in de omgeving en gedraagt zich ernaar.
