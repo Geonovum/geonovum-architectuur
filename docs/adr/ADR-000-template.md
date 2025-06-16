@@ -6,17 +6,19 @@ Verwoord het besluit kort en in actieve stijl.
 
 Beschrijf de context waarin de beslissing genomen is, probeer zoveel mogelijk het stramien toe te passen:
 
+- wanneeer is de beslissing genomen
 - situatie
 - complicatie
 - vraag
 - antwoord
+- wie nam de beslissing
 
 ## Alternatieven
 
 Beschrijf de alternatieven die overwogen zijn, en waarom hier niet voor gekozen is. Kijk of je kunt onderbouwen vanuit de Architectuurprincipes en Implicaties.
 
-- alternatief
-- alternatief
+- alternatief 1
+- alternatief 2
 
 ## Consequenties
 

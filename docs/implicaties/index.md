@@ -78,7 +78,13 @@ Oudere versies moeten vindbaar zijn plus de verantwoording waarom dingen verande
 
 ## IMP-014 Effectief samenwerken
 
-De architectuur moet het effectief samenwerken met alle relevante standaardisatie-organisaties ondersteunen
+De architectuur ondersteunt het effecten samenwerken met alle relevante
+partners.
+
+Is implicatie van:
+
+- [Open](../architectuurprincipes/#ap-01-open)
+- [Netwerk](../architectuurprincipes/#ap-02-netwerk)
 
 ## IMP-015 Zowel specifiek als generiek
 
@@ -90,17 +96,16 @@ Wij zorgen dat al onze begrippen machineleesbaar benaderbaar zijn.
 
 ## IMP-017 Samenhang
 
-De publieke website van Geonovum vormen een samenhangend geheel
+De publieke websites van Geonovum vormen een samenhangend geheel.
 
 ## IMP-018 Model Driven Approach
 
-Waar mogelijk passen we de Model Driven Approach to waarbij we artifacten met een druk
-op de knop afleiden. 
+Waar mogelijk passen we de Model Driven Approach to waarbij we artifacten automatisch afleiden.
 
 Is implicatie van:
+
 - Standaard
 - Wendbaar
-
 
 ## IMP-019 Tooling ondersteunt open standaarden
 
@@ -112,7 +117,7 @@ Alleen vigerende versies van standaarden mogen via internet gevonden kunnen word
 
 ## IMP-021 I&A infrastructuur ondersteunt ons voortbrengingsproces
 
-kwalitatief goede en betrouwbare informatievoorziening vereist goede kennis, vaardigheden, uniforme werkprocessen en voldoende capaciteit binnen het team I&A. 
+kwalitatief goede en betrouwbare informatievoorziening vereist goede kennis, vaardigheden, uniforme werkprocessen en voldoende capaciteit binnen het team I&A.
 
 kantelen naar een top-down benadering die ten dienste staat aan de organisatiedoelstellingen van Geonovum. meer geformaliseerde centrale aansturing.
 
@@ -126,13 +131,13 @@ Onze producten en diensten moeten voldoen aan de FAIR principes.
 
 ## IMP-024 onze producten voldoen aan de WCAG richtlijnen
 
-We volgen de geldende richtlijnen WCAG. (Dit is waarschijnlijk een gevolg van voor de overheid werken). Geonovum zou aanbevelingen moeten geven aan de WCAG over geoinformatie.
+We volgen de geldende richtlijnen WCAG. Geonovum zou aanbevelingen moeten geven aan de WCAG over geoinformatie.
 
 Een medewerker van Geonovum moet ‘Anywhere, Anytime’ met de Geonovum omgeving kunnen werken. Nu geldt dat voor de office omgeving maar zouden we kunnen uitbreiden naar productieproces.
 
 ## IMP-025 Archivering
 
-We houden ons aan de wetgeving omtrent archivering
+We houden ons aan de wetgeving omtrent archivering.
 
 ## IMP-026 Tooling voor ondersteuning standaarden
 
@@ -142,7 +147,7 @@ Tooling voor extern gebruik zoals validators.
 
 An international standard to manage information security.
 
-## IMP-028 Ons productieproces ondersteunt de nationalle GII.
+## IMP-028 Ons productieproces ondersteunt de nationalle GII
 
 De interne architectuur moet steeds afgestemd zijn op de externe architecturen van de buitenwereld, die dus leidend is.
 
@@ -150,12 +155,12 @@ De interne architectuur moet steeds afgestemd zijn op de externe architecturen v
 
 We conformeren ons aan de relevante standaarden van Forum Standaardisatie, net zoals wij ook vanuit ons werk standaarden aanleveren aan Forum Standaardisatie.
 
-## IMP-030 Voor interne processen hebben we een pas-toe-of-leg-uit mechanisme.
+## IMP-030 Voor interne processen hebben we een pas-toe-of-leg-uit mechanisme
 
 Omdat we in een werkveld zitten waar we veel andere partijen tegenkomen zal het
 niet altijd lukken om overal onze eigen werkwijze toe te passen. Tegelijkertijd
 is een gestandaardaardiseeerde werkwijze wel wenselijk. Daarom gebruiken we het
-pas toe of leg uit mechanisme. Als er afgeweken wordt van de interne architectuur 
+pas toe of leg uit mechanisme. Als er afgeweken wordt van de interne architectuur
 wordt dat voor iedereen beschreven in de Architecture Decision Records.
 
 ## IMP-031 We zijn wendbaar
