@@ -1,8 +1,6 @@
 # Welkom
 
-**Deze pagina is nog in ontwikkeling**
-
-Welkom bij de architectuurpagina van Geonovum. Uit [beleidskaders](beleidskaders/index.md) (beleidsvisie, beleidsplan, doelstelling, handboeken, BOMOS) komen we tot formulering van [architectuurprincipes](architectuurprincipes/index.md). Deze
+Welkom bij de dynamische architectuurpagina van Geonovum. Uit [beleidskaders](beleidskaders/index.md) (beleidsvisie, beleidsplan, doelstelling, handboeken, BOMOS) komen we tot formulering van [architectuurprincipes](architectuurprincipes/index.md). Deze
 principes werken we verder uit tot [implicaties](implicaties/index.md) voor hoe wij onze infrastructuur inregelen.
 
 Beslissingen die we nemen met impact op architectuure documenten we in ['Architecure Decision Records' (ADRs)](adr/index.md).
@@ -14,9 +12,6 @@ Onze architectuur beschrijft alle producten van Geonovum. Dit zijn:
 - Informatie op onze website
 - Validators
 - Dienstverlening aan andere projecten.
-
-
-
 
 ## Uitgangspunten
 

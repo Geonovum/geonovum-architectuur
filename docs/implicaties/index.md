@@ -166,3 +166,6 @@ wordt dat voor iedereen beschreven in de Architecture Decision Records.
 ## IMP-031 We zijn wendbaar
 
 Wij hebben een wendbare infrastructuur zodat we zonder veel rompslomp een wijziging kunnen publiceren.
+
+## IMP-032 We gebruiken ReSpec voor het publiceren van onze standaarden.
+
