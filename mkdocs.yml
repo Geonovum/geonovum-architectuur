@@ -4,7 +4,7 @@
 #
 # Bron van inspiratie: https://provincienh.github.io/architectuurprincipes/
 # 19-2-2026: custom geonovum kleuren via extra_css property
-# 19-2-2026: pages build via mkdocs workflow
+# 19-2-2026: pages build via mkdocs workflow 
 #
 site_name: Architectuurprincipes
 theme:
