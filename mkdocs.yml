@@ -10,8 +10,8 @@ theme:
       # Palette toggle for light mode
   palette:
   - scheme: default
-    # primary: deep purple
-    primary: custom
+    # primary: custom
+    primary: blue #FFFFFF
     toggle:
       icon: material/brightness-7 
       name: Switch to dark mode
