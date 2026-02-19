@@ -3,6 +3,7 @@
 #     https://squidfunk.github.io/mkdocs-material/getting-started/
 #
 # Bron van inspiratie: https://provincienh.github.io/architectuurprincipes/
+# custom geonovum kleuren via extra_css property
 #
 site_name: Architectuurprincipes
 theme:
