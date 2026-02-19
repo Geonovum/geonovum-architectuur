@@ -10,8 +10,8 @@ theme:
       # Palette toggle for light mode
   palette:
   - scheme: default
-    # primary: custom
-    primary: blue #FFFFFF
+    primary: custom
+    # primary: custom #FFFFFF
     toggle:
       icon: material/brightness-7 
       name: Switch to dark mode
@@ -19,9 +19,9 @@ theme:
   - scheme: slate
     # primary: deep purple
     primary: custom
-    #toggle:
-    #  icon: material/brightness-4
-    #  name: Switch to light mode
+    toggle:
+     icon: material/brightness-4
+     name: Switch to light mode
   logo: https://www.geonovum.nl/logo.svg
   icon:
     admonition:
@@ -43,8 +43,8 @@ theme:
     - navigation.tabs.sticky
     - navigation.footer
     - navigation.indexes
-#extra_css:
-#  - stylesheets/extra.css
+extra_css:
+    - stylesheets/geonovum.css
 copyright: "CC BY-NC-SA 4.0 - 2025 Geonovum"
 plugins:
   - tags

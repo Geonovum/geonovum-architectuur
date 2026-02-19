@@ -83,8 +83,8 @@ partners.
 
 Is implicatie van:
 
-- [Open](../architectuurprincipes/#ap-01-open)
-- [Netwerk](../architectuurprincipes/#ap-02-netwerk)
+- [Open](../architectuurprincipes/index.md#ap-01-open)
+- [Netwerk](../architectuurprincipes/index.md#ap-02-netwerk)
 
 ## IMP-015 Zowel specifiek als generiek
 

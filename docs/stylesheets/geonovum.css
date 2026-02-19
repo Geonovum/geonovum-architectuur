@@ -1,0 +1,35 @@
+﻿/*-- geonovum kleuren --*/
+
+:root,
+[data-md-color-scheme] {
+  /* Geonovum Colors */
+  --geonovum-blue: #2979af;
+  --geonovum-green: #8db63f;
+
+  /* MkDocs Material Overrides */
+  --md-primary-fg-color: var(--geonovum-green);
+  --md-primary-fg-color--light: var(--geonovum-green);
+  --md-primary-fg-color--dark: var(--geonovum-blue);
+
+  --md-footer-bg-color: var(--geonovum-green);
+  --md-footer-bg-color--dark: var(--geonovum-blue);
+}
+
+/* Explicitly set header background */
+.md-header,
+[data-md-color-scheme] .md-header {
+  background-color: var(--md-primary-fg-color) !important;
+}
+
+/* Explicitly set footer backgrounds */
+.md-footer,
+[data-md-color-scheme] .md-footer,
+.md-typeset .md-footer {
+  background-color: var(--md-footer-bg-color) !important;
+}
+
+.md-footer-meta,
+[data-md-color-scheme] .md-footer-meta,
+.md-typeset .md-footer-meta {
+  background-color: var(--md-footer-bg-color--dark) !important;
+}
